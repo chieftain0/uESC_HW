@@ -1,0 +1,48 @@
+/Project Outputs*/
+/Project Logs*/
+/__Previews*/
+/History/
+
+# Altium Designer temporary files
+*.SchDoc.PrjPCBHistory
+*.PcbDoc.PrjPCBHistory
+*.SchLib.PrjPCBHistory
+*.PcbLib.PrjPCBHistory
+*.IntLib.PrjPCBHistory
+*.OutJob
+
+# Output files
+*.PDF
+*.DXF
+*.Gerber
+*.ODB++
+*.PLT
+*.CAM
+*.IPC2581
+*.ASC
+*.TXT
+*.ZIP
+
+# Build folders
+*.PrjPCB.Automation
+*.PrjPCB.Bak
+*.PrjPCB.Cache
+*.PrjPCB.Temp
+*.PrjPCB.Intermediate
+
+# PCB layer files generated during compilation
+*.PcbDoc_*.bak
+*.SchDoc_*.bak
+
+# System files
+*.SVN
+*.DS_Store
+*.Thumbs.db
+*.bak
+*.tmp
+*.log
+
+# User-specific settings
+*.PrjPCBUser
+*.Scr
+*.DsnAutoBackup
